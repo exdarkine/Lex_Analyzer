@@ -1,0 +1,18 @@
+Lexer error at 2:10 Unexpected character met '='
+Lexer error at 3:8 Delimiter or space expected
+Lexer error at 4:7 End of comment expected
+Code      Line      Column    Name                          
+
+800       1         1         PROCEDURE                     
+801       1         11        FOO                           
+40        1         15        (                             
+41        1         15        )                             
+59        1         16        ;                             
+802       2         1         VAR                           
+803       2         5         VAR1                          
+705       2         12        COMPLEX                       
+706       2         20        INTEGER                       
+59        2         27        ;                             
+701       3         1         BEGIN                         
+400       3         8         2                             
+702       4         1         END                           

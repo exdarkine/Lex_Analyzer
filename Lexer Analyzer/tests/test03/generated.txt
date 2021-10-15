@@ -1,0 +1,6 @@
+Lexer error at 4:8 Unexpected character met '-'
+Code      Line      Column    Name                          
+
+40        4         10        (                             
+41        4         11        )                             
+800       4         13        FOO                           
